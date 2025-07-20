@@ -8,7 +8,7 @@ Parkinson's disease affects the nervous system and leads to progressive movement
 
 ## 📊 Dataset
 
-- Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/parkinsons)
+- Source: [Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/parkinsons)
 - Size: 195 instances, 23 features
 - Key feature: `status` (0 = healthy, 1 = Parkinson’s)
 
